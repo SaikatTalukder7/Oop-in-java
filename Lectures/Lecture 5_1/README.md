@@ -1,5 +1,5 @@
-# Question
--Leo runs a garage where he keeps information about cars. Each car has: a model_name, a speed in km/h, and the year it was made.
--Leo wants to:
--Add new cars with their model name, speed, and year.
--Show the car’s details.
+## Question
+- Sophia has a shelf full of books. Each book has: a title, an author, and a number_of_pages.
+- She wants a program to:
+- Add new books by providing their title, author, and page count.
+- Display information about each book.
