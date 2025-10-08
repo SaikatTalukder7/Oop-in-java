@@ -1,4 +1,4 @@
-## 1. Leo runs a garage where he keeps information about cars. Each car has:
+1. Leo runs a garage where he keeps information about cars. Each car has:
 a model_name, a speed in km/h, and the year it was made.
 
 Leo wants to:
